@@ -20,8 +20,10 @@ To run the application you must:
 ## Showcase
 - Checking the weather in different cities.
 
-![WeatherApp_Showcase](https://user-images.githubusercontent.com/75611423/118479721-aaa1f580-b711-11eb-8a09-72f4b588c2c9.gif)
+![Weather_CheckWeather](https://user-images.githubusercontent.com/75611423/118526253-582bfd80-b740-11eb-9ecc-4192482e5d80.gif)
+
 
 - No Internet access alert.
 
-![WeatherApp_NoInternetAccess](https://user-images.githubusercontent.com/75611423/118479802-c0afb600-b711-11eb-9749-ea41493a93b7.gif)
+![Weather_NoInternetAccess](https://user-images.githubusercontent.com/75611423/118526266-5b26ee00-b740-11eb-9019-32dd53a81bed.gif)
+
