@@ -2,6 +2,7 @@
 Archived old project - a mobile application created to check the weather anywhere in the world.
 
 ## Technologies
+- Android Studio
 - Java
 
 ## Features
@@ -12,7 +13,7 @@ Archived old project - a mobile application created to check the weather anywher
 
 ## Setup
 To run the application you must:
-1. Clone the server repository: [https://github.com/razzin98/WeatherApp.git](https://github.com/razzin98/WeatherApp.git)
+1. Clone the application repository: [https://github.com/razzin98/WeatherApp.git](https://github.com/razzin98/WeatherApp.git)
 2. Run the emulator.
 3. Install and the application. Make sure Your device is connected to the Internet.
 
